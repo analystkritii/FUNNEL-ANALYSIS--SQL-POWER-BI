@@ -1,9 +1,5 @@
 # 🛒 E-Commerce Funnel Analysis | SQL + Power BI
 
-![SQL](https://img.shields.io/badge/SQL-Analysis-blue)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-green)
-![Dataset](https://img.shields.io/badge/Dataset-12K%2B%20Rows-orange)
 
 ## 📌 Project Overview
 
